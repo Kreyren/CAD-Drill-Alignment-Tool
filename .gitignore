@@ -1,0 +1,4 @@
+.direnv/
+*.FCBak
+*.3mf
+*.step
